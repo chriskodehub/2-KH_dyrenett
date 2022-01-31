@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+
+img {
+    border-radius: 15px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+    font-family: sans-serif;
+    flex-direction: column;
+}
+
+.header {
+    background: lightgreen;
+}
+
+.nav {
+    background: lightsalmon;
+}
+
+.main {
+    background: lightskyblue;
+}
+
+.article {
+    background: lightpink;
+}
+
+.footer {
+    background: lightgoldenrodyellow;
+}
+
+.nav-footer {
+    background: lightseagreen;
+}
