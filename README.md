@@ -15,3 +15,6 @@ Vi skal nå lage et nettsted som består av tre nettsider. Nettstedet vårt skal
 Legg oppgaven på GitHub og lever inn linken på DOKKER.
 
 Lykke til!
+
+## Answer
+![Demo](img/demo.png)
