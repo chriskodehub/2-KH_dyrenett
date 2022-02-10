@@ -1,6 +1,7 @@
 # 2-KH_dyrenett
 
-https://github.com/chriskodehub/2-KH_dyrenett.git
+[Source code](https://github.com/chriskodehub/2-KH_dyrenett.git)  
+[Live demo](https://chriskodehub.github.io/KH-2_dyrenett/)  
 
 ## Oppgave
 
